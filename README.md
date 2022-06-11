@@ -1,2 +1,2 @@
-# nsotruong2.github.io
+# http://nsotruong2.github.io
 Ninja School Trường 2
